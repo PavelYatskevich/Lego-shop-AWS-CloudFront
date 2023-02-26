@@ -3,7 +3,7 @@
 Application URLs:
 
 - [S3 website](https://lego-shop-react-redux-cloudfront.s3.eu-west-1.amazonaws.com/index.html)
-- [CloudFront URl](https://d60vdnv5dhn4y.cloudfront.net)
+- [CloudFront URl](https://d2ecxxle0iv2yi.cloudfront.net/index.html)
 
 ## Available Scripts
 
