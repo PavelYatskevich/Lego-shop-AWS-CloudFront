@@ -25,7 +25,7 @@ function App() {
         </Route>
         <Route
           path="*"
-          element={<Typography variant="h1">Shop comming soon...</Typography>}
+          element={<Typography variant="h1">Comming soon...</Typography>}
         />
       </Routes>
     </MainLayout>
